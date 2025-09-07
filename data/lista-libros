@@ -1,0 +1,296 @@
+{
+  "libros": [
+    {
+      "titulo": "Génesis",
+      "abreviatura": "Gn"
+    },
+    {
+      "titulo": "Éxodo",
+      "abreviatura": "Ex"
+    },
+    {
+      "titulo": "Levítico",
+      "abreviatura": "Lv"
+    },
+    {
+      "titulo": "Números",
+      "abreviatura": "Nm"
+    },
+    {
+      "titulo": "Deuteronomio",
+      "abreviatura": "Dt"
+    },
+    {
+      "titulo": "Josué",
+      "abreviatura": "Jos"
+    },
+    {
+      "titulo": "Jueces",
+      "abreviatura": "Jue"
+    },
+    {
+      "titulo": "Rut",
+      "abreviatura": "Rt"
+    },
+    {
+      "titulo": "1 Samuel",
+      "abreviatura": "1%20Sam"
+    },
+    {
+      "titulo": "2 Samuel",
+      "abreviatura": "2%20Sam"
+    },
+    {
+      "titulo": "1 Reyes",
+      "abreviatura": "1%20Re"
+    },
+    {
+      "titulo": "2 Reyes",
+      "abreviatura": "2%20Re"
+    },
+    {
+      "titulo": "1 Crónicas",
+      "abreviatura": "1%20Crón"
+    },
+    {
+      "titulo": "2 Crónicas",
+      "abreviatura": "2%20Crón"
+    },
+    {
+      "titulo": "Esdras",
+      "abreviatura": "Esd"
+    },
+    {
+      "titulo": "Nehemías",
+      "abreviatura": "Neh"
+    },
+    {
+      "titulo": "Tobías",
+      "abreviatura": "Tob"
+    },
+    {
+      "titulo": "Judit",
+      "abreviatura": "Jdt"
+    },
+    {
+      "titulo": "Ester",
+      "abreviatura": "Est"
+    },
+    {
+      "titulo": "1 Macabeos",
+      "abreviatura": "1%20Mac"
+    },
+    {
+      "titulo": "2 Macabeos",
+      "abreviatura": "2%20Mac"
+    },
+    {
+      "titulo": "Job",
+      "abreviatura": "Job"
+    },
+    {
+      "titulo": "Salmos",
+      "abreviatura": "Sal"
+    },
+    {
+      "titulo": "Proverbios",
+      "abreviatura": "Prov"
+    },
+    {
+      "titulo": "Eclesiastés",
+      "abreviatura": "Ecl"
+    },
+    {
+      "titulo": "Cantar de los Cantares",
+      "abreviatura": "Cant"
+    },
+    {
+      "titulo": "Sabiduría",
+      "abreviatura": "Sab"
+    },
+    {
+      "titulo": "Eclesiástico",
+      "abreviatura": "Eclo"
+    },
+    {
+      "titulo": "Isaías",
+      "abreviatura": "Is"
+    },
+    {
+      "titulo": "Jeremías",
+      "abreviatura": "Jer"
+    },
+    {
+      "titulo": "Lamentaciones",
+      "abreviatura": "Lam"
+    },
+    {
+      "titulo": "Baruc",
+      "abreviatura": "Bar"
+    },
+    {
+      "titulo": "Ezequiel",
+      "abreviatura": "Ez"
+    },
+    {
+      "titulo": "Daniel",
+      "abreviatura": "Dn"
+    },
+    {
+      "titulo": "Oseas",
+      "abreviatura": "Os"
+    },
+    {
+      "titulo": "Joel",
+      "abreviatura": "Jl"
+    },
+    {
+      "titulo": "Amós",
+      "abreviatura": "Am"
+    },
+    {
+      "titulo": "Abdías",
+      "abreviatura": "Abd"
+    },
+    {
+      "titulo": "Jonás",
+      "abreviatura": "Jon"
+    },
+    {
+      "titulo": "Miqueas",
+      "abreviatura": "Miq"
+    },
+    {
+      "titulo": "Nahum",
+      "abreviatura": "Nah"
+    },
+    {
+      "titulo": "Habacuc",
+      "abreviatura": "Hab"
+    },
+    {
+      "titulo": "Sofonías",
+      "abreviatura": "Sof"
+    },
+    {
+      "titulo": "Ageo",
+      "abreviatura": "Ag"
+    },
+    {
+      "titulo": "Zacarías",
+      "abreviatura": "Zac"
+    },
+    {
+      "titulo": "Malaquías",
+      "abreviatura": "Mal"
+    },
+    {
+      "titulo": "Mateo",
+      "abreviatura": "Mt"
+    },
+    {
+      "titulo": "Marcos",
+      "abreviatura": "Mc"
+    },
+    {
+      "titulo": "Lucas",
+      "abreviatura": "Lc"
+    },
+    {
+      "titulo": "Juan",
+      "abreviatura": "Jn"
+    },
+    {
+      "titulo": "Hechos de los Apóstoles",
+      "abreviatura": "Hch"
+    },
+    {
+      "titulo": "Romanos",
+      "abreviatura": "Rom"
+    },
+    {
+      "titulo": "1 Corintios",
+      "abreviatura": "1%20Cor"
+    },
+    {
+      "titulo": "2 Corintios",
+      "abreviatura": "2%20Cor"
+    },
+    {
+      "titulo": "Gálatas",
+      "abreviatura": "Gal"
+    },
+    {
+      "titulo": "Efesios",
+      "abreviatura": "Ef"
+    },
+    {
+      "titulo": "Filipenses",
+      "abreviatura": "Flp"
+    },
+    {
+      "titulo": "Colosenses",
+      "abreviatura": "Col"
+    },
+    {
+      "titulo": "1 Tesalonicenses",
+      "abreviatura": "1%20Tes"
+    },
+    {
+      "titulo": "2 Tesalonicenses",
+      "abreviatura": "2%20Tes"
+    },
+    {
+      "titulo": "1 Timoteo",
+      "abreviatura": "1%20Tim"
+    },
+    {
+      "titulo": "2 Timoteo",
+      "abreviatura": "2%20Tim"
+    },
+    {
+      "titulo": "Tito",
+      "abreviatura": "Tit"
+    },
+    {
+      "titulo": "Filemón",
+      "abreviatura": "Flm"
+    },
+    {
+      "titulo": "Hebreos",
+      "abreviatura": "Heb"
+    },
+    {
+      "titulo": "Santiago",
+      "abreviatura": "Stgo"
+    },
+    {
+      "titulo": "1 Pedro",
+      "abreviatura": "1%20Pe"
+    },
+    {
+      "titulo": "2 Pedro",
+      "abreviatura": "2%20Pe"
+    },
+    {
+      "titulo": "1 Juan",
+      "abreviatura": "1%20Jn"
+    },
+    {
+      "titulo": "2 Juan",
+      "abreviatura": "2%20Jn"
+    },
+    {
+      "titulo": "3 Juan",
+      "abreviatura": "3%20Jn"
+    },
+    {
+      "titulo": "Judas",
+      "abreviatura": "Jud"
+    },
+    {
+      "titulo": "Apocalipsis",
+      "abreviatura": "Ap"
+    }
+  ]
+}
