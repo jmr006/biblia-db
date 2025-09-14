@@ -7,7 +7,7 @@
           {"titulo": "Génesis", "abreviatura": "Gn"},
           {"titulo": "Éxodo", "abreviatura": "Ex"},
           {"titulo": "Levítico", "abreviatura": "Lv"},
-          {"titulo": "Números", "abreviatura": "Nm"},
+          {"titulo": "Números", "abreviatura": "Num"},
           {"titulo": "Deuteronomio", "abreviatura": "Dt"}
         ]
       },
